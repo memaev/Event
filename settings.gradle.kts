@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Event"
 include(":app")
 include(":domain")
+include(":data")

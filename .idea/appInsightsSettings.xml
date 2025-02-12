@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="maevskii.studio.event" />
+                  <option name="mobileSdkAppId" value="1:24246664526:android:40e0390bdd9f1067ef321f" />
+                  <option name="projectId" value="event-5064e" />
+                  <option name="projectNumber" value="24246664526" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

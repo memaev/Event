@@ -1,6 +1,7 @@
 package maevskii.studio.event.domain.model;
 
-public record Response(
+public record Result<T>(
         boolean isSuccessful,
-        String message
+        String message,
+        T data
 ) { }
